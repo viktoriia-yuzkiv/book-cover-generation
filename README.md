@@ -1,11 +1,9 @@
 # Book cover generation based on its text structure
 
-Project main parts:
 
-- text processing (output: text structure as a tree)
-- visualizing a tree data structure using an algorithm
-- implementing several ways of a cover layout (name, author, generated image)
-- web-interface (input: book name, author)
+This work is an example of generative art and design application in publication graphic design. It shows how programming may be applied in book covers generation. The work combines such fields of Computer Science as Natural Language Processing (processing text data to get its structure), Algorithms and Data Structures (saving text structure as a tree, using algorithms to visualize it) and Data Visualization (cover generation process). All covers are generated for Artemis Fowl - a series of novels by Eoin Colfer.
+The idea was inspired by Stefanie Posavec’s talk about what ‘handmade’ means in regards to data visualization and how data illustrators usually perform complicated data processing without writing a simple line of code.
+
 
 
 ## Prerequisites 
@@ -15,8 +13,4 @@ pip install requirements.txt
 ```
 
 
-## Book texts
-
-Texts of all books are dowloaded from a library of over 60,000 free eBooks - [Project Gutenberg](hhttp://www.gutenberg.org/). Easy access to texts gives a python library [gutenberg](https://pypi.org/project/Gutenberg/).
-
-
+# generative-book-cover
