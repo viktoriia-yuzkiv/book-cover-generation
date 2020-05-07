@@ -1,2 +1,12 @@
-gutenberg
+pandas
+string
+glob
+json
+os
+re
 nltk
+matplotlib
+networkx
+pydot
+pygraphviz
+numpy
