@@ -10,3 +10,7 @@ networkx
 pydot
 pygraphviz
 numpy
+datashader
+functools
+math
+statistics
